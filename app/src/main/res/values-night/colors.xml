@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="projectTabTextSelectedColor">#ffffff</color>
+    <color name="projectTabTextUnSelectedColor">#a5a5a5</color>
+    <color name="BlackAndWhite">#fff</color>
+    <color name="projectSection1Color">#202020</color>
+    <color name="transparent">#00000000</color>
+
+
+</resources>
